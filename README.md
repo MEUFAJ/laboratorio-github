@@ -49,5 +49,8 @@ Guardá el cambio:
 git add README.md
 git commit -m "Agrega verificación de Git"
 
-# 28. Realizá una modificación independiente.
+# 29. Realizá una modificación independiente.
  Trabajo paralelo en feature-ejemplo.
+
+ # 45. Cambio en feature-b
+ Descripción: Proyecto educativo para aprender Git
