@@ -20,3 +20,7 @@ entre Git y GitHub.
 ## Repositorio remoto
 
 Este contenido fue incorporado desde GitHub.
+
+## Instalación
+
+Instrucciones para instalar y preparar el proyecto.
