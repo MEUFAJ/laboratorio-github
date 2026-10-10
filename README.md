@@ -48,3 +48,6 @@ Guardá el cambio:
 ```bash
 git add README.md
 git commit -m "Agrega verificación de Git"
+
+# 28. Realizá una modificación independiente.
+ Trabajo paralelo en feature-ejemplo.
