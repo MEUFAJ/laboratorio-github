@@ -48,3 +48,6 @@ Guardá el cambio:
 ```bash
 git add README.md
 git commit -m "Agrega verificación de Git"
+
+# 44. Cambio en feature
+Descripción: Proyecto educativo
